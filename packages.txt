@@ -1,3 +1,3 @@
-pandas-dev
-altair-dev
-pillow-dev
+pandas
+altair
+pillow
